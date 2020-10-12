@@ -1,5 +1,7 @@
 ![smiley](https://api.iconify.design/octicon-smiley-16.svg?height=16) 𝙲𝚊𝚛𝚝𝚘𝚘𝚗𝙲𝚑𝚎𝚜𝚜 / 𝚁𝙴𝙰𝙳𝙼𝙴`.𝚖𝚍`
 
+<a href="https://apps.apple.com/us/app/chears/id1442745863?itsct=apps_box&amp;itscg=30200"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/01/89/d6018949-ee26-bad4-76ac-956857cb8c3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/540x540sr.jpg" width="50" alt="Chears"> <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1567036800&h=6a738906fe38c9ef6dc77883c42cdaf0" height="50" alt="Download on the App Store"></a>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cartoonchess&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cartoonchess&langs_count=10&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
